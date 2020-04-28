@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GQ-Test/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/GQ-Test/static/js/main.5a1bd659.chunk.js",
+    "main.js.map": "/GQ-Test/static/js/main.5a1bd659.chunk.js.map",
+    "runtime-main.js": "/GQ-Test/static/js/runtime-main.c4569db1.js",
+    "runtime-main.js.map": "/GQ-Test/static/js/runtime-main.c4569db1.js.map",
+    "static/js/2.3adeeefe.chunk.js": "/GQ-Test/static/js/2.3adeeefe.chunk.js",
+    "static/js/2.3adeeefe.chunk.js.map": "/GQ-Test/static/js/2.3adeeefe.chunk.js.map",
+    "index.html": "/GQ-Test/index.html",
+    "precache-manifest.519cf19ed7c6d026806c8fd46f726747.js": "/GQ-Test/precache-manifest.519cf19ed7c6d026806c8fd46f726747.js",
+    "service-worker.js": "/GQ-Test/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/GQ-Test/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3adeeefe.chunk.js.LICENSE.txt": "/GQ-Test/static/js/2.3adeeefe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4569db1.js",
+    "static/js/2.3adeeefe.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5a1bd659.chunk.js"
+  ]
+}
